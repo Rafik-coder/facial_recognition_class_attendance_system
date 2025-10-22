@@ -1,0 +1,24 @@
+
+ATTENDANCE REPORT
+================
+Course: CS101
+Lecturer: Dr. Admin
+Date: 2025-10-21
+Time Generated: 09:00:25
+
+PRESENT STUDENTS (3):
+----------------------------------------
+1. STU06220763 - 08:41 AM
+2. STU06220785 - 08:39 AM
+3. STU062207654 - 08:47 AM
+
+ABSENT STUDENTS (1):
+----------------------------------------
+1. FELIX KANGMENEBAMAA (STU06220715)
+
+SUMMARY:
+--------
+Total Enrolled: 4
+Present: 3
+Absent: 1
+Attendance Rate: 75.0%

@@ -1,0 +1,10 @@
+__pycache__
+.virt
+
+build
+images
+model_sample
+old_model
+attendance.db
+attendance.sql
+schema.sql
