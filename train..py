@@ -45,6 +45,6 @@ clf = SVC(kernel='linear', probability=True)
 clf.fit(embeddings, y)
 
 # Save model and label encoder
-joblib.dump(clf, "face_recognition_model.pkl")
-joblib.dump(le, "label_encoder.pkl")
+joblib.dump(clf, "./models/face_recognition_model.pkl")
+joblib.dump(le, "./models/label_encoder.pkl")
 print("✅ Model and label encoder saved!")
